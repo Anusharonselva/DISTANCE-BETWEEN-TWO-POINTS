@@ -30,3 +30,4 @@ print("{:.2f}".format(distance))
 
 
 ### RESULT:
+The distance of two points has been found.
